@@ -39,6 +39,3 @@ bash launch_workeres.sh or crawler.bat then submit the jobs using the flameSubmi
 
 For the front end and backend, simply call the executable class file after compiling. You should also launch_workers.sh before calling invoking these classes.
 
-# Contributors
-https://youtu.be/JmRXZ5hmmL0
-Kevin Liu, Aneesh Edara, Ethan Yu, Aryan Roy
