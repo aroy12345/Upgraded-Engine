@@ -1,0 +1,9 @@
+In root dir run the kvs flame workers :
+
+java -cp bin; flame.FlameSubmit localhost:9000 crawler.jar jobs.Crawler
+ <txt_file_in_links>
+
+example
+
+java -cp bin; flame.FlameSubmit localhost:9000 crawler.jar jobs.Crawler
+ espn.txt
